@@ -1,2 +1,2 @@
 # MLH-Challenge
-This is a repos is for MLH challenge 
+This repos is for Create a GitHub Profile Readme challenge by MLH  
