@@ -1,7 +1,5 @@
 ![](https://user-images.githubusercontent.com/96401557/196701699-8749f074-2384-4ce0-908a-4b42e73ebe1e.png)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Dimple.</h1>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackdagger007&label=Profile%20views&color=0e75b6&style=flat" alt="blackdagger007" /> </p>
  
 <div style="display:flex">
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
